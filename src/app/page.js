@@ -37,9 +37,10 @@ export default function Home() {
         <section className={classes.section}>
           <h2>Why Foodies?</h2>
           <p>
-            Foodies is a platform for foodies to share their favorite recipes
-            with the world. It&apos;s a place to discover new dishes, and to
-            connect with other food lovers.
+            Foodies isn’t just a recipe app — it’s a community. Whether you're a
+            home cook or a professional chef, Foodies helps you connect, get
+            inspired, and discover flavors from different cultures. Join to
+            share your passion and learn something new every day.
           </p>
           <p>
             Foodies is a place to discover new dishes, and to connect with other
