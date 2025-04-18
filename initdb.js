@@ -21,8 +21,8 @@ const dummyMeals = [
       4. Serve:
          Complete the assembly with the top bun and serve hot.
     `,
-    creator: "John Doe",
-    creator_email: "johndoe@example.com",
+    creator: "Nikhil Gupta",
+    creator_email: "nikhil@example.com",
   },
   {
     title: "Spicy Curry",
@@ -46,8 +46,8 @@ const dummyMeals = [
       5. Serve:
          Enjoy this creamy curry with rice or bread.
     `,
-    creator: "Max Schwarz",
-    creator_email: "max@example.com",
+    creator: "Rahul Gupta",
+    creator_email: "nahul@example.com",
   },
   {
     title: "Homemade Dumplings",
@@ -68,8 +68,8 @@ const dummyMeals = [
       4. Serve:
          Enjoy these dumplings hot, with a dipping sauce of your choice.
     `,
-    creator: "Emily Chen",
-    creator_email: "emilychen@example.com",
+    creator: "Navya Gupta",
+    creator_email: "navya@example.com",
   },
   {
     title: "Classic Mac n Cheese",
@@ -93,8 +93,8 @@ const dummyMeals = [
       5. Serve:
          Serve hot, garnished with parsley if desired.
     `,
-    creator: "Laura Smith",
-    creator_email: "laurasmith@example.com",
+    creator: "Shubh Gupta",
+    creator_email: "shubh@example.com",
   },
   {
     title: "Authentic Pizza",
@@ -115,8 +115,8 @@ const dummyMeals = [
       4. Serve:
          Slice hot and enjoy with a sprinkle of basil leaves.
     `,
-    creator: "Mario Rossi",
-    creator_email: "mariorossi@example.com",
+    creator: "Sachin Gupta",
+    creator_email: "sachin@example.com",
   },
   {
     title: "Wiener Schnitzel",
@@ -137,8 +137,8 @@ const dummyMeals = [
       4. Serve:
       Serve hot with a slice of lemon and a side of potato salad or greens.
  `,
-    creator: "Franz Huber",
-    creator_email: "franzhuber@example.com",
+    creator: "Avinash Gupta",
+    creator_email: "avinash@example.com",
   },
   {
     title: "Fresh Tomato Salad",
@@ -159,8 +159,8 @@ const dummyMeals = [
       4. Serve:
          Enjoy this simple, flavorful salad as a side dish or light meal.
     `,
-    creator: "Sophia Green",
-    creator_email: "sophiagreen@example.com",
+    creator: "Abhinav Gupta",
+    creator_email: "abhinav@example.com",
   },
 ];
 
